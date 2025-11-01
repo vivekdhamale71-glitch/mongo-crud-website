@@ -1,5 +1,5 @@
-const productsApi = 'https://my-product-api.onrender.com/api/products';
-const ordersApi = 'https://my-product-api.onrender.com/api/orders';
+const productsApi = 'https://mongo-crud-website-1.onrender.com/api/products';
+const ordersApi = 'https://mongo-crud-website-1.onrender.com/api/orders';
 
 function el(tag, cls, text) {
   const e = document.createElement(tag);
