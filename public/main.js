@@ -1,5 +1,5 @@
-const productsApi = '/api/products';
-const ordersApi = '/api/orders';
+const productsApi = 'https://my-product-api.onrender.com/api/products';
+const ordersApi = 'https://my-product-api.onrender.com/api/orders';
 
 function el(tag, cls, text) {
   const e = document.createElement(tag);
